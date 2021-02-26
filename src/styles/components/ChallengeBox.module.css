@@ -45,7 +45,7 @@
   flex-direction: column;
 }
 
-.challengeActive header {
+.challengeActive head {
   color: var(--blue);
   font-weight: 700;
   font-size: 1.25rem;
